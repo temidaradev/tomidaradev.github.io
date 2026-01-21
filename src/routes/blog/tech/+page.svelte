@@ -1,6 +1,48 @@
 <script>
     let posts = [
         {
+            title: "XMRig Dashboard",
+            date: "2026-01-21",
+            summary:
+                "A web-based dashboard for monitoring and controlling XMRig cryptocurrency miner, featuring real-time hashrate monitoring and live CPU control.",
+            slug: "xmrig-dashboard",
+        },
+        {
+            title: "PiFan - Raspberry Pi 5 Fan Controller",
+            date: "2026-01-21",
+            summary:
+                "A modern GUI application to take full control of your Raspberry Pi 5's active cooler fan speed using hardware PWM.",
+            slug: "pifan",
+        },
+        {
+            title: "Bad Apple on RP2350 (RISC-V)",
+            date: "2026-01-21",
+            summary:
+                "Playing the iconic 'Bad Apple' video on a Raspberry Pi Pico 2 (RP2350) using the RISC-V hazard3 cores and SSD1306.",
+            slug: "pico2-riscv-badapple",
+        },
+        {
+            title: "fastfetchus",
+            date: "2026-01-21",
+            summary:
+                "A custom system information fetching tool inspired by fastfetch/neofetch, designed for efficiency and aesthetics.",
+            slug: "fastfetchus",
+        },
+        {
+            title: "ESP32 Bad Apple",
+            date: "2026-01-21",
+            summary:
+                "Bad Apple video player for ESP32 with SSD1306 OLED, utilising Heatshrink compression for efficient video storage.",
+            slug: "deneyap-badapple",
+        },
+        {
+            title: "wthmdif (Why The Hell My Disk Is Full?)",
+            date: "2026-01-21",
+            summary:
+                "A terminal-based disk usage analyzer written in Rust. It helps identify storage consumption with a clear and intuitive interface.",
+            slug: "wthmdif",
+        },
+        {
             title: "NixOS Configuration: Complete Desktop Environment with Hyprland",
             date: "2025-09-30",
             summary:
